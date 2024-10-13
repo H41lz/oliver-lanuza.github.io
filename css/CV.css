@@ -247,7 +247,7 @@ body {
 	padding: 0;
 	list-style: none;
 }
-.pg-list > li {	
+.pg-list > li {
 	margin: 1rem 0;
 	display: flex;
 	align-items: center;
@@ -314,7 +314,7 @@ body {
 	font-size: 1.2rem;
 	transform: translate(-50%, -50%);
 }
-.tool-list > li > .tl-exp {	
+.tool-list > li > .tl-exp {
 	top: calc(50% + 1.4rem);
 	font-size: 1rem;
 	transform: translate(-50%, -50%);
@@ -357,12 +357,12 @@ body {
 }
 
 @keyframes circle {
-  0% {
+0% {
     box-shadow: 0 0 0 0px rgba(51, 52, 57, 1);
-  }
-  100% {
+}
+100% {
     box-shadow: 0 0 0 6px rgba(51, 52, 57, 0);
-  }
+}
 }
 
 @media (max-width: 1024px) {
@@ -409,4 +409,4 @@ body {
 	html {
 		font-size: 70%;
 	}
-} 
+}
